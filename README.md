@@ -1,6 +1,6 @@
-# StyleBART Induction
+# StyleBART: Decorate Pretrained Model with Style Adapters
 
-xxx
+The official repository which contains the code and pre-trained models for our paper [StyleBART: Decorate Pretrained Model with Style Adapters]().
 
 # Prerequisites
 
