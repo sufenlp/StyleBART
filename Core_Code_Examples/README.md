@@ -8,5 +8,6 @@ Here, we provide the core code examples for StyleBART, corresponding to Stages 1
 
 - **Framework of StyleBART.**
 <p align="center">
-    <img src="../Assets/Framework_of_StyleBART.pdf" width="96%" height="96%">
+    <img src="../Assets/Framework_of_StyleBART.png" width="96%" height="96%">
 </p>
+
