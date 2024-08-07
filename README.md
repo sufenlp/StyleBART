@@ -1,6 +1,10 @@
 # StyleBART: Decorate Pretrained Model with Style Adapters
 
-The official repository which contains the code and pre-trained models for our paper [StyleBART: Decorate Pretrained Model with Style Adapters]().
+The official repository which contains the code and pre-trained models for our paper [EMNLP 2023 Findings StyleBART: Decorate Pretrained Model with Style Adapters](https://aclanthology.org/2023.findings-emnlp.697.pdf).
+
+
+## 🔥 News
+* **`2024.08.08`** 🌟 We have made a simple organization of the core structure code and released it for better understanding and use by readers. The complete pipeline is coming soon.
 
 # Prerequisites
 
