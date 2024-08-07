@@ -4,7 +4,7 @@ The official repository which contains the code and pre-trained models for our p
 
 
 ## 🔥 News
-* **`2024.08.08`** 🌟 We have made a simple organization of the core structure code and released it for better understanding and use by readers. We are working on releasing the complete pipeline for StyleBART. Stay tuned for updates!
+* **`2024.08.08`** 🌟 We have made a simple organization of the [core structure code](./Core_Code_Examples/) and released it for better understanding and use by readers. We are working on releasing the complete pipeline for StyleBART. Stay tuned for updates!
 
 # Prerequisites
 
